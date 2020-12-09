@@ -23,7 +23,3 @@ For playing you can use:
 ```bash
 ./my_hunter
 ```
-
-## AER
-
-I tried to add the balls functionality but it is not fixed but the game is still playable
